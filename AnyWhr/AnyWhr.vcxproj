@@ -141,6 +141,10 @@
   <ItemGroup>
     <ClCompile Include="AnyWhr.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="data_model.h" />
+    <ClInclude Include="neighbour_functions.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
